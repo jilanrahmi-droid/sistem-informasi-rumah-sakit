@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Rumah Sakit",
+  "description": "Sistem Informasi Manajemen Rumah Sakit (SIMRS) cerdas dengan arsitektur agen AI untuk perutean layanan, manajemen pasien, dan analitik finansial (SIA) berbasis Gemini.",
+  "requestFramePermissions": []
+}
